@@ -1,0 +1,7 @@
+opencv-python==4.7.0.72
+numpy==1.23.5
+face_alignment==1.4.0
+scikit-learn==1.2.2
+torch==2.0.1+cu117
+torchaudio==2.0.2+cu117
+torchvision==0.15.2+cu117
